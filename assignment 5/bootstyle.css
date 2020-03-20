@@ -1,0 +1,35 @@
+h3{
+	text-align:center;
+	
+	background-color:darkblue;
+}
+h2{
+color:white;	
+	
+}
+body{
+	
+	background-image:url("https://picserio.com/data/out/342/web-developer-wallpaper_5501744.png");
+	background-repeat:no-repeat;
+	background-size:100%;
+	color:white;
+	
+}
+textarea {
+	color:white;
+}
+.reg{
+	
+	border:2px solid black;
+	border-radius:1;
+	
+}
+.form-controler{
+	background-color:transparent;
+	border:none;
+	border-bottom:2px solid black;
+	border-radius:0px;
+	
+}
+
+	

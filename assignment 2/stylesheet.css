@@ -1,0 +1,47 @@
+
+.header{
+  background-color:#281E96;
+     padding:60px;  
+      font-family: Arial, Helvetica, sans-serif;
+  text-align:center;
+  color:white;
+  font-size:30px;
+  
+}
+.header .img1 {
+  float:left;
+  height:100px;
+  width:100px;
+}
+.header p {
+  display:inline;
+}
+.header .img2 {
+  float:right;
+  height:100px;
+  width:100px;
+}
+
+ td {
+  text-align:center;
+  height:200px;
+  width:500px;
+}
+th {
+  height:100px;
+}
+marquee{
+   text-align:center;
+    font-size:20px;
+  color:white;
+    
+  
+  
+}
+
+.taj2{
+
+  background-color:lighter;
+  
+  
+}
