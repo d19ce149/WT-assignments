@@ -16,21 +16,21 @@
             <form class="form-horizontal hr" method="post" action="insertData.php">
 			<h2>Registration Here</h2>
               <div  class="form-group">
-                <label class="control-label col-sm-4" for="fname">First Name:</label>
+                <label class="control-label col-sm-4" for="fname">First name:</label>
                   <div class="col-sm-8">
-                    <input type="text"   name="fname" placeholder="Enter Your First Name" class="form-controler" id="uname" >
+                    <input type="text"   name="fname" placeholder="Enter Your First name" class="form-controler" id="uname" >
                   </div>
               </div>
 	      <!------->
               <div class="form-group">
-                <label class="control-label col-sm-4" for="mname">Middle Name:</label>
+                <label class="control-label col-sm-4" for="mname">Middle name:</label>
                  <div class="col-sm-8">
                    <input type="text"   name="mname" placeholder="Enter Your Middle name"class="form-controler" id="uname">
                  </div>
               </div>
           <!------>
 		      <div class="form-group">
-                <label class="control-label col-sm-4" for="lname">Last Name:</label>
+                <label class="control-label col-sm-4" for="lname">Last name:</label>
                  <div class="col-sm-8">
                   <input type="text"  name="lname" placeholder="Enter Your Last name" class="form-controler" id="uname">
                  </div>
