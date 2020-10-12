@@ -18,7 +18,7 @@
               <div  class="form-group">
                 <label class="control-label col-sm-4" for="fname">First Name:</label>
                   <div class="col-sm-8">
-                    <input type="text"   name="fname" placeholder="Enter Your First Name" class="form-controler" id="uname" >
+                    <input type="text"   name="fname" placeholder="Enter Your First name" class="form-controler" id="uname" >
                   </div>
               </div>
 	      <!------->
